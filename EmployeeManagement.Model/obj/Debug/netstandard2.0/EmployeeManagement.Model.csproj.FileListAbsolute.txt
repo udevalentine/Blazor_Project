@@ -1,0 +1,8 @@
+C:\Users\udevalentine\Documents\Mine\Blazor projects\BlazorTutorial\EmployeeManagement.Model\bin\Debug\netstandard2.0\EmployeeManagement.Model.deps.json
+C:\Users\udevalentine\Documents\Mine\Blazor projects\BlazorTutorial\EmployeeManagement.Model\bin\Debug\netstandard2.0\EmployeeManagement.Model.dll
+C:\Users\udevalentine\Documents\Mine\Blazor projects\BlazorTutorial\EmployeeManagement.Model\bin\Debug\netstandard2.0\EmployeeManagement.Model.pdb
+C:\Users\udevalentine\Documents\Mine\Blazor projects\BlazorTutorial\EmployeeManagement.Model\obj\Debug\netstandard2.0\EmployeeManagement.Model.csprojAssemblyReference.cache
+C:\Users\udevalentine\Documents\Mine\Blazor projects\BlazorTutorial\EmployeeManagement.Model\obj\Debug\netstandard2.0\EmployeeManagement.Model.AssemblyInfoInputs.cache
+C:\Users\udevalentine\Documents\Mine\Blazor projects\BlazorTutorial\EmployeeManagement.Model\obj\Debug\netstandard2.0\EmployeeManagement.Model.AssemblyInfo.cs
+C:\Users\udevalentine\Documents\Mine\Blazor projects\BlazorTutorial\EmployeeManagement.Model\obj\Debug\netstandard2.0\EmployeeManagement.Model.dll
+C:\Users\udevalentine\Documents\Mine\Blazor projects\BlazorTutorial\EmployeeManagement.Model\obj\Debug\netstandard2.0\EmployeeManagement.Model.pdb
